@@ -1,0 +1,14 @@
+D:\udu\Interview\PhonePe\CabManagement\CabManagement\bin\Debug\netcoreapp2.1\CabManagement.deps.json
+D:\udu\Interview\PhonePe\CabManagement\CabManagement\bin\Debug\netcoreapp2.1\CabManagement.runtimeconfig.json
+D:\udu\Interview\PhonePe\CabManagement\CabManagement\bin\Debug\netcoreapp2.1\CabManagement.runtimeconfig.dev.json
+D:\udu\Interview\PhonePe\CabManagement\CabManagement\bin\Debug\netcoreapp2.1\CabManagement.dll
+D:\udu\Interview\PhonePe\CabManagement\CabManagement\bin\Debug\netcoreapp2.1\CabManagement.pdb
+D:\udu\Interview\PhonePe\CabManagement\CabManagement\obj\Debug\netcoreapp2.1\CabManagement.csprojAssemblyReference.cache
+D:\udu\Interview\PhonePe\CabManagement\CabManagement\obj\Debug\netcoreapp2.1\CabManagement.csproj.CoreCompileInputs.cache
+D:\udu\Interview\PhonePe\CabManagement\CabManagement\obj\Debug\netcoreapp2.1\CabManagement.RazorAssemblyInfo.cache
+D:\udu\Interview\PhonePe\CabManagement\CabManagement\obj\Debug\netcoreapp2.1\CabManagement.RazorAssemblyInfo.cs
+D:\udu\Interview\PhonePe\CabManagement\CabManagement\obj\Debug\netcoreapp2.1\CabManagement.AssemblyInfoInputs.cache
+D:\udu\Interview\PhonePe\CabManagement\CabManagement\obj\Debug\netcoreapp2.1\CabManagement.AssemblyInfo.cs
+D:\udu\Interview\PhonePe\CabManagement\CabManagement\obj\Debug\netcoreapp2.1\CabManagement.RazorTargetAssemblyInfo.cache
+D:\udu\Interview\PhonePe\CabManagement\CabManagement\obj\Debug\netcoreapp2.1\CabManagement.dll
+D:\udu\Interview\PhonePe\CabManagement\CabManagement\obj\Debug\netcoreapp2.1\CabManagement.pdb
